@@ -1445,7 +1445,7 @@ button {
 }
 .navigation-one .primary-menu .site-branding .brand-logo {
   padding: 20px 35px;
-  background-color: #DF3F00;
+  /* background-color: #DF3F00; */
 }
 @media (max-width: 991px) {
   .navigation-one .primary-menu .site-branding .brand-logo {
@@ -5415,7 +5415,7 @@ form.reservation-form .nice-select ul.list {
 }
 
 .about-company-widget .footer-content .footer-logo {
-  background-color: #DF3F00;
+  /* background-color: #DF3F00; */
   padding: 20px 35px;
 }
 .about-company-widget .footer-content > p {
